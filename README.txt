@@ -4,3 +4,6 @@ Author: Galinatmn <galinka-87@list.ru>
 Date:   Sun Dec 11 15:10:09 2022 +0500
 
     добавила инфо об образовании
+
+Склонированный репозиторий https://github.com/stakun/DE_Sprint
+последний коммит b38fe7fbee536f6aa3adbaea56f987be15ba85c8
